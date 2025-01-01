@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
         // Prompt the user to enter the number of pairs of parentheses
         System.out.print("Enter N: ");
         int n = scanner.nextInt();
